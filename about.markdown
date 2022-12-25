@@ -20,3 +20,5 @@ through day to day activities in
 - Feature release
 
 The blog will not be limited to above and will have many adhoc articles related to financical knowledge, politics etc.
+
+You can read the [first blog post]({% link _posts/2022-12-24-welcome-to-pahadi-programmer.markdown %}) giving info. about themotivation behind the blog
