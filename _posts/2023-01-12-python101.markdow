@@ -20,7 +20,7 @@ It's used for holding data of different types. It is represented as `[data1, dat
 It can be n-dimesnional.
 
 - ### One-dimensional(1D) List
-1D list is represented as [data1, data2,.....]. 
+1D list is represented as [data1, data2,.....]
 List is 0-index which means the first element have index=0 and all subsequent elements are prevIndex+1.
 
 The members of 1D can be accessed as shown below:
