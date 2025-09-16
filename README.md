@@ -11,7 +11,7 @@ I am a passionate programmer with a love for solving complex problems and learni
 - 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything related to programming
-- 📫 How to reach me: pahadiprogrammer@example.com
+- 📫 How to reach me: pahadiprogrammer@gmail.com
 - ⚡ Fun fact: I love hiking and exploring new places
 
 ## Languages and Tools
